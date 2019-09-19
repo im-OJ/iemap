@@ -1,0 +1,376 @@
+[
+    {
+        "name": "Example School",
+        "ID": 0,
+        "lng": "-0.608",
+        "lat": "51.5072",
+        "category": "Education",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example School 2",
+        "ID": 1,
+        "lng": "-0.618",
+        "lat": "51.5053",
+        "category": "Education",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Business",
+        "ID": 2,
+        "lng": "-0.618",
+        "lat": "51.5076",
+        "category": "Business",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Gym",
+        "ID": 3,
+        "lng": "-0.608",
+        "lat": "51.5032",
+        "category": "Sport & Health",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Transport",
+        "ID": 4,
+        "lng": "-0.6177708",
+        "lat": "51.5132",
+        "category": "Transport",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Housing",
+        "ID": 5,
+        "lng": "-0.6093242",
+        "lat": "51.5132202",
+        "category": "Housing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "An Example Housing",
+        "ID": 6,
+        "lng": " -0.6153856999999999",
+        "lat": "51.5095851",
+        "category": "Housing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Another Example Housing",
+        "ID": 7,
+        "lng": "-0.6124397",
+        "lat": "51.5049512",
+        "category": "Housing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Health Centre",
+        "ID": 8,
+        "lng": "-0.6105795",
+        "lat": "51.5063303",
+        "category": "Sport & Health",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Political",
+        "ID": 9,
+        "lng": "-0.6099",
+        "lat": "51.50729",
+        "category": "Political",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Media Company",
+        "ID": 10,
+        "lng": "-0.6236898",
+        "lat": "51.5073397",
+        "category": "Media & Comms",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    } ,
+    {
+        "name": "Example Health",
+        "ID": 11,
+        "lng": "-0.6212504",
+        "lat": "51.50645249999999",
+        "category": "Health & Wellbeing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Health 2",
+        "ID": 12,
+        "lng": "-0.6225784",
+        "lat": "51.5108993",
+        "category": "Health & Wellbeing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Social 3",
+        "ID": 13,
+        "lng": "-0.6022596",
+        "lat": "51.5075532",
+        "category": "Health & Wellbeing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    } ,
+    {
+        "name": "Example Other",
+        "ID": 14,
+        "lng": "-0.6032504",
+        "lat": "51.5102783",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    } ,
+    {
+        "name": "Example Professional Services",
+        "ID": 15,
+        "lng": "-0.5972835",
+        "lat": "51.5067032",
+        "category": "Professional Servuces",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    } ,
+    {
+        "name": "Example Business",
+        "ID": 16,
+        "lng": "-0.6140167",
+        "lat": "51.5134045",
+        "category": "Health & Wellbeing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Transport",
+        "ID": 17,
+        "lng": "-0.6175155999999999",
+        "lat": "51.51535190000001",
+        "category": "Transport",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Media",
+        "ID": 18,
+        "lng": "-0.6271917",
+        "lat": "51.51023259999999",
+        "category": "Media & Comms",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Business",
+        "ID": 19,
+        "lng": "0.6120964",
+        "lat": "51.5039102",
+        "category": "Health & Wellbeing",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Social",
+        "ID": 20,
+        "lng": "-0.6107653",
+        "lat": "51.5109667",
+        "category": "Social",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Person",
+        "ID": 21,
+        "lng": "-0.6197754",
+        "lat": "51.5106823",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Other Person",
+        "ID": 22,
+        "lng": "-0.6058146",
+        "lat": "51.5091878",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 23,
+        "lng": "-0.6082122999999999",
+        "lat": " 51.50510569999999",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 24,
+        "lng": "-0.6170294",
+        "lat": " 51.5072878",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 25,
+        "lng": "-0.6227867",
+        "lat": " 51.5087974",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 26,
+        "lng": "-0.6168749",
+        "lat": " 51.5113108",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 27,
+        "lng": "-0.6067836999999999",
+        "lat": " 51.5094656",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 28,
+        "lng": "-0.6097300999999999",
+        "lat": " 51.51493960000001",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 29,
+        "lng": "-0.6239568",
+        "lat": " 51.5136556",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    },
+    {
+        "name": "Example Another person",
+        "ID": 31,
+        "lng": "-0.6120964",
+        "lat": " 51.5039102",
+        "category": "Other",
+        "phone": "07896405387",
+        "email": "example@example.com",
+        "bio": "This is an example bio",
+        "Capability": 20
+        
+    }
+
+    
+]
