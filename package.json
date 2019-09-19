@@ -1,44 +1,32 @@
 {
-  "name": "iemap",
-  "version": "0.1.0",
-  "main": "index.js",
+  "name": "create-react-app-lambda",
+  "version": "0.5.0",
   "private": true,
-  "homepage": "http://im-OJ.github.io/iemap",
   "dependencies": {
-    "@material-ui/core": "^4.4.1",
-    "bootstrap": "^4.3.1",
-    "gh-pages": "^2.1.1",
-    "google-map-react": "^1.1.4",
-    "react": "^16.9.0",
-    "react-bootstrap": "^1.0.0-beta.12",
-    "react-dom": "^16.9.0",
-    "react-draggable": "^4.0.3",
-    "react-geocode": "^0.1.2",
-    "react-scripts": "3.1.1",
-    "reactstrap": "^8.0.1",
-    "styled-components": "^5.0.0-beta.8"
+    "axios": "^0.19.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "run-p build:**",
+    "build:app": "react-scripts build",
+    "build:lambda": "netlify-lambda build src/lambda",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "netlify-lambda": "^1.4.5",
+    "npm-run-all": "^4.1.5"
   }
 }
